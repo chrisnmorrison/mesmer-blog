@@ -2,3 +2,5 @@
 label: blog-post
 hide_body: false
 fields: []
+pages:
+- exampleSite/content/blog/hello-world.md
