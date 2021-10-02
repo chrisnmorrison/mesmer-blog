@@ -1,5 +1,5 @@
 +++
-draft = true
+text = ""
 
 +++
 hello world
